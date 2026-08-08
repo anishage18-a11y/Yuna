@@ -46,5 +46,7 @@ Notable data practices reflected in the Privacy Policy include:
 ## Suggested Discord Developer Portal URLs
 
 Terms of Service:
+https://anishage18-a11y.github.io/Yuna/terms.html
 
 Privacy Policy:
+https://anishage18-a11y.github.io/Yuna/privacy.html
